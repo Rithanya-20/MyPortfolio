@@ -6,7 +6,7 @@ import githublight from '../../assets/github-light.svg';
 import linkedinlight from '../../assets/linkedin-light.svg'
 import githubdark from '../../assets/github-dark.svg';
 import linkedindark from '../../assets/linkedin-dark.svg'
-import CV from '../../assets/cv.pdf'
+import CV from '../../assets/CV.pdf'
 import { useTheme } from '../../common/ThemeContext'
 
 
