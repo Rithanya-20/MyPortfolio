@@ -1,7 +1,7 @@
 import React from 'react'
 import viberr from '../../assets/things.jpg';
 import freshBurger from '../../assets/icecream.jpg'
-import hipsster from '../../assets/trip.jpg'
+import hipsster from '../../assets/Trip.jpg'
 import fitlift from '../../assets/github.jpg'
 
 
